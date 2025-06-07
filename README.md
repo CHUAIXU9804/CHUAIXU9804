@@ -1,13 +1,13 @@
-# 👋 Hi there - This is Crystal Xu
+# 👋 Hi there - This is Crystal
 🎓 A recent college grad in Computer Information Systems major from Stony Brook University  
-👩‍💻 Who am I?  
-![Static Badge](https://img.shields.io/badge/who_am_i-Jr.%20Software%20Engineer-purple)
-![Static Badge](https://img.shields.io/badge/who_am_i-On%20the%20Road%20to%20System%20Architect-green)
-![Static Badge](https://img.shields.io/badge/who_am_i-Tech%20Enthusiast-blue)
+👩‍💻 But also - Who am I?  
+![Static Badge](https://img.shields.io/badge/I_am_a-Jr.%20Software%20Engineer-purple)
+![Static Badge](https://img.shields.io/badge/I_am-On%20the%20Road%20to%20System%20Architect-green)
+![Static Badge](https://img.shields.io/badge/I_am_a-Tech%20Enthusiast-blue)
 
 
 💻 My tech stack primarily includes Python, Bash, and SQL, with knowledge of Java, HTML, CSS, JavaScript, and TypeScript  
-🌱 Primarily focused on backend development at work, but with growing experience in frontend as well...
+🌱 My Development Experience is primarily focused on the backend, but with growing experience in frontend as well...
 <!--
 **CHUAIXU9804/CHUAIXU9804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
