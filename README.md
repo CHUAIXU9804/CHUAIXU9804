@@ -7,7 +7,7 @@
 
 
 💻 My tech stack primarily includes Python, Bash, and SQL, with knowledge of Java, HTML, CSS, JavaScript, and TypeScript  
-🌱 My Development Experience is primarily focused on the backend, but with growing experience on frontend as well...
+🌱 My Development Experience is primarily focused on the backend, but with growing experience in frontend as well...
 <!--
 **CHUAIXU9804/CHUAIXU9804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
