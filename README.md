@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/I_am_a-Tech%20Enthusiast-blue)
 
 
-💻 My tech stack primarily includes Python, Bash, and SQL, with knowledge of Java, HTML, CSS, JavaScript, and TypeScript  
+💻 My tech stack primarily includes Python, Java, Bash, and SQL, with knowledge of HTML, CSS, JavaScript, and TypeScript  
 🌱 My Development Experience is primarily focused on the backend, but with growing experience in frontend as well...
 <!--
 **CHUAIXU9804/CHUAIXU9804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
