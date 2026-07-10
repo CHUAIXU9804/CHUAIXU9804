@@ -1,7 +1,7 @@
 # 👋 Hi there - This is Crystal
 🎓 A recent college grad in Computer Information Systems major from Stony Brook University  
 👩‍💻 But also - Who am I?  
-![Static Badge](https://img.shields.io/badge/I_am_a-Jr.%20Software%20Engineer-purple)
+![Static Badge](https://img.shields.io/badge/I_am_a-%20Software%20Engineer-purple)
 ![Static Badge](https://img.shields.io/badge/I_am-On%20the%20Road%20to%20System%20Architect-green)
 ![Static Badge](https://img.shields.io/badge/I_am_a-Tech%20Enthusiast-blue)
 
