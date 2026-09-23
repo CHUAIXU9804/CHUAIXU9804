@@ -1,5 +1,5 @@
 # 👋 Hi there - This is Crystal
-🎓 A recent college grad in Computer Information Systems major from Stony Brook University  
+🎓 An early career software and data engineer. Graduated with B.S.in Computer Information Systems major from Stony Brook University  
 👩‍💻 But also - Who am I?  
 ![Static Badge](https://img.shields.io/badge/I_am_a-%20Software%20Engineer-purple)
 ![Static Badge](https://img.shields.io/badge/I_am-On%20the%20Road%20to%20System%20Architect-green)
@@ -7,7 +7,7 @@
 
 
 💻 My tech stack primarily includes Python, Java, Bash, and SQL, with knowledge of HTML, CSS, JavaScript, and TypeScript  
-🌱 My Development Experience is primarily focused on the backend, but with growing experience on frontend as well...
+🌱 My Development Experience has primarily been focused on the backend, but with growing experience on frontend as well...
 <!--
 **CHUAIXU9804/CHUAIXU9804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
